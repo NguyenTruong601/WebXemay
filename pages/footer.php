@@ -13,23 +13,23 @@
 
         <div class="footer-person-info">
             <div class="person">
-                <h4>Nguyễn Mạnh Trường</h4>
-                <p>20/07/2024</p>
-                <p>13/05/2005</p>
+                <h4>Vũ Thành Kiên</h4>
+                <p>20103100603</p>
+                <p>13/05/2002</p>
             </div>
             <div class="person">
-                <h4>Nguyễn Mạnh Trườngi</h4>
-                <p>20/07/2024</p>
-                <p>20/01/2005</p>
+                <h4>Ngô Thế Thái</h4>
+                <p>20103100643</p>
+                <p>20/01/2002</p>
             </div>
             <div class="person">
-                <h4>Nguyễn Mạnh Trường</h4>
-                <p>20/07/2024</p>
-                <p>11/09/2005</p>
+                <h4>Lê Văn Anh</h4>
+                <p>20103100611</p>
+                <p>11/09/2001</p>
             </div>
         </div>
 
         <div class="footer-copyright">
-            <p>&copy; Web Bán Xe máy</p>
+            <p>&copy; Trường</p>
         </div>
     </div>
